@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projetos-C#\\WebAPI_Video\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Migrations\\20240420224047_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI_Video\\Migrations\\20240420224047_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|d:\\projetos-c#\\webapi_video\\webapi_video\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|solutionrelative:webapi_video\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|d:\\projetos-c#\\webapi_video\\webapi_video\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|solutionrelative:webapi_video\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|d:\\projetos-c#\\webapi_video\\webapi_video\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|solutionrelative:webapi_video\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|d:\\projetos-c#\\webapi_video\\webapi_video\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|solutionrelative:webapi_video\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|d:\\projetos-c#\\webapi_video\\webapi_video\\webapi_video.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|solutionrelative:webapi_video\\webapi_video.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|d:\\projetos-c#\\webapi_video\\webapi_video\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|solutionrelative:webapi_video\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|d:\\projetos-c#\\webapi_video\\webapi_video\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|solutionrelative:webapi_video\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|d:\\projetos-c#\\webapi_video\\webapi_video\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|solutionrelative:webapi_video\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|d:\\projetos-c#\\webapi_video\\webapi_video\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|solutionrelative:webapi_video\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|d:\\projetos-c#\\webapi_video\\webapi_video\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF163EDA-12F7-4864-B77D-F4165F845317}|WebAPI_Video\\WebAPI_Video.csproj|solutionrelative:webapi_video\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240420224047_first-migration.cs",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Migrations\\20240420224047_first-migration.cs",
+              "RelativeDocumentMoniker": "WebAPI_Video\\Migrations\\20240420224047_first-migration.cs",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Migrations\\20240420224047_first-migration.cs",
+              "RelativeToolTip": "WebAPI_Video\\Migrations\\20240420224047_first-migration.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:40:47.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPI_Video\\appsettings.Development.json",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPI_Video\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T22:32:09.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebAPI_Video.csproj",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\WebAPI_Video.csproj",
+              "RelativeDocumentMoniker": "WebAPI_Video\\WebAPI_Video.csproj",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\WebAPI_Video.csproj",
+              "RelativeToolTip": "WebAPI_Video\\WebAPI_Video.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T22:23:53.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI_Video\\appsettings.json",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\appsettings.json",
+              "RelativeToolTip": "WebAPI_Video\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T21:56:01.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI_Video\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI_Video\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T21:55:49.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI_Video\\DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAPI_Video\\DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:51:14.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnoEnum.cs",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Enums\\TurnoEnum.cs",
+              "RelativeDocumentMoniker": "WebAPI_Video\\Enums\\TurnoEnum.cs",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Enums\\TurnoEnum.cs",
+              "RelativeToolTip": "WebAPI_Video\\Enums\\TurnoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:52:02.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartamentoEnum.cs",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Enums\\DepartamentoEnum.cs",
+              "RelativeDocumentMoniker": "WebAPI_Video\\Enums\\DepartamentoEnum.cs",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Enums\\DepartamentoEnum.cs",
+              "RelativeToolTip": "WebAPI_Video\\Enums\\DepartamentoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:49:18.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "WebAPI_Video\\Models\\ServiceResponse.cs",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "WebAPI_Video\\Models\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:41:58.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "WebAPI_Video\\Models\\FuncionarioModel.cs",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "WebAPI_Video\\Models\\FuncionarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:41:20.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_Video\\Program.cs",
+              "ToolTip": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\Program.cs",
+              "RelativeToolTip": "WebAPI_Video\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:32:10.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
