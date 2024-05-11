@@ -2439,19 +2439,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thiag\\.nuget\\packages\\": {}
+    "C:\\Users\\Thiago Martins da Si\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\WebAPI_Video.csproj",
+      "projectUniqueName": "D:\\projeto .net\\WebAPI-DOTNET\\WebAPI_Video\\WebAPI_Video.csproj",
       "projectName": "WebAPI_Video",
-      "projectPath": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\WebAPI_Video.csproj",
-      "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "D:\\projetos-C#\\WebAPI_Video\\WebAPI_Video\\obj\\",
+      "projectPath": "D:\\projeto .net\\WebAPI-DOTNET\\WebAPI_Video\\WebAPI_Video.csproj",
+      "packagesPath": "C:\\Users\\Thiago Martins da Si\\.nuget\\packages\\",
+      "outputPath": "D:\\projeto .net\\WebAPI-DOTNET\\WebAPI_Video\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Thiago Martins da Si\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
